@@ -1,6 +1,6 @@
 # SurfCast CE – Ceará Surf‑Forecast Advisor
 
-#### Video Demo:&#[x20](https://www.youtube.com/watch?v=ldTZ7ZQSowg);
+#### Video Demo:&#[Youtube Video](https://www.youtube.com/watch?v=ldTZ7ZQSowg);
 
 ---
 
