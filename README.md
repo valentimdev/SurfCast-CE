@@ -1,7 +1,10 @@
 # SurfCast CE – Ceará Surf‑Forecast Advisor
 
 #### Video Demo:[Youtube Video](https://www.youtube.com/watch?v=ldTZ7ZQSowg);
+#### Description:
+**SurfCast CE** is a Python tool that helps surfers in Ceará, Brazil, choose the best beach to surf based on weather data. It gets information about wave height and wind speed from the Stormglass API, then calculates a score for each beach.
 
+The program supports four popular beaches: Praia do Futuro, Iguape, Paracuru, and Taíba. It shows the best beach for the day based on wave conditions and wind, and you can also get the data in JSON format for automation.
 ---
 
 ## Overview
